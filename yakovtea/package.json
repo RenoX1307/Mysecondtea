@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/RenoX1307/Mysecondtea/issues"
   },
-  "homepage": "https://github.com/RenoX1307/Mysecondtea#readme"
+  "homepage": "https://github.com/RenoX1307/Mysecondtea#readme",
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  }
 }
