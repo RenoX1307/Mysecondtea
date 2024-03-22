@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/RenoX1307/Mysecondtea#readme",
   "dependencies": {
-    "fs-extra": "^11.2.0"
+    "fs-extra": "^11.2.0",
+    "lodash": "^4.17.21",
+    "axios": "^0.24.0"
   }
 }
